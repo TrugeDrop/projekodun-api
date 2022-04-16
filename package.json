@@ -1,0 +1,15 @@
+{
+  "name": "projekodun",
+  "version": "1.0.6",
+  "description": "ProjeKodun API, has been developed so that you can use ProjeKodun in your own projects.",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ProjeKodun", "request", "ProjeKodun API"],
+  "author": "",
+  "license": "ISC"
+}
