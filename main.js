@@ -6,4 +6,5 @@ module.exports = {
   getInf: require("./src/get-infrastructure"),
   deleteInf: require("./src/delete-infrastructure"),
   likeInf: require("./src/like-infrastructure"),
+  loginSystem: require("./src/login-system")
 }
